@@ -1,0 +1,61 @@
+Parth Ray
+Lab 1-Report
+
+Lab 1-1
+The experience was fun. I enjoyed playing with the nltk tokenizer.
+The hardest part was finding text pertaining to each language on
+Google. The accurracy I obtained from my tests wer 100%. Each paragraph
+was correctly identified to its language.
+
+Lab 1-2
+Bigram Sentences
+Sentence 1:
+You know The friendliness of being alone with us while 
+Sentence 2:
+He lived at any encouragement from the last longer a recantation of a puppy 
+Sentence 3:
+A better seat 
+Sentence 4:
+But that of autumn were gone to Mr Ferrars 
+Sentence 5:
+Margaret and would settle how justly and the third day on by me which 
+this upon them all the carriage of living child was immediately employed 
+
+Trigram Sentences
+Sentence 1:
+The Palmers were to remove 
+Sentence 2:
+No to Combe by this public discovery restored to Kellynch and 
+almost every line of society in the most unfortunate one you 
+need not be a good account 
+Sentence 3:
+Oh cried Miss Bates and appearing to treat them with all its 
+appendages of prosperity and the length of time upon her knees 
+to attend were mentioned but he had seen a letter the thing 
+Sentence 4:
+Emma was pleased with his sister 
+Sentence 5:
+Said Marianne if the remembrance of his family for if I did
+indeed particularly so when he takes her from the flutter 
+should have the honour of calling in Berkeley Street 
+
+Lab 1-3
+Trigram Paragraphs
+Paragraph 1:
+For wisdom is much rubbish so that the heathen 
+And by weight of the palsy grievously tormented 
+Thus shalt thou see clearly to cast away his wife of Uriah the Hittite and the shoulder and stopped their ears and call not upon the altar which was upon Judah and the adultress will hunt for the coming of the land of Egypt
+And the fourth Jeremiah the son of Hilkiah The son of Dodavah of Mareshah and Ziph and Ziphah Tiria and Asareel 
+
+Paragraph 2:
+And when he is kind charity envieth not charity it profiteth me nothing so long time in nothing else but either to the dowry of virgins 
+Attend unto my necessities and to all that was slain in the midst of the LORD liveth and as thy father even they and said unto him Make this fellow also was born to Bethuel son of man is there a year 
+arise and make their land which the LORD 
+And they turned in unto Noah Come thou and take them away and there was no more dumb and deaf spirit I command you this day have I now again if any man known her and brought them to go to Nineveh that great city was broken up many of the watchmen to the LORD hearkened and heard it he measured the threshold only the baptism that I have given you and ye are risen up against all the people how many baskets full
+And she said Have ye not that which the LORD God made two rings upon the mountains in scales and he was come unto us their children 
+
+Paragraph 3:
+We will pass through the land of Egypt which covereth the bottom of the world by wisdom I have brought thee forth that David had who strengthened themselves with an unclean beast then it blessed me hitherto 
+But godliness with good words to no man may pass through the two courts of the altar 
+For lo I give unto the messengers returned to his servant from the ends of the Jews language in the place of my pasture 
+Surely it is the sabbath day when I came forth to give thee thy elders and said O faithless generation how long shall they do 
